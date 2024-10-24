@@ -11,7 +11,6 @@ I'm a passionate developer with a strong interest in **Machine learning** and **
 ### ⚡ Interests
 - **Web Development**: Crafting dynamic and responsive web applications using Django and other modern technologies.
 - **Machine Learning**: Designing models to solve real-world problems, like phishing website detection or disease prediction..
-- **Cooking**: I can cook some good fried chicken.
 - **Cricket**: An avid fan of the game, I enjoy playing and following cricket.
 - **Traveling**: Exploring new places and cultures is one of my passions.
 
