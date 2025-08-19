@@ -21,7 +21,6 @@ I specialize in **Java Full Stack Development, Django, and Machine Learning**, a
 - **Databases:** PostgreSQL, MySQL  
 - **Machine Learning:** Scikit-learn, Random Forest, Data Preprocessing, Classification Models  
 - **Microservices:** Eureka, API Gateway, Feign Client, Inter-service Communication  
-- **Messaging Systems:** Kafka, RabbitMQ (learning phase)  
 - **Tools & Platforms:** Git, GitHub, Postman  
 - **Other Expertise:** REST APIs, Web Security, OOPs, API Integration  
 
